@@ -29,12 +29,15 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*The design intent is to create a fun and interactive workout mat.*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+*The concept for this design was to create a yoga mat into an at home workout tool. The idea is to create a bop it experience when working out. Sensor will be attached to the bottom of the yoga mat to send signals to the mirco bit that the particualr exercise is completed, therefore another exercise will be called out and the user will complete the next.*
+
+*For example, the mat will indicate to the user to complete a 30sec plank. When the user completes this task, the mat will continue into the next. The longer you continue completing all the challenges the better your overall workout will be.*
+
+
 
 ### Design concept 2 ###
 *Put details here.*
